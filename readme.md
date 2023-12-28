@@ -21,5 +21,8 @@
 
 飞行棋棋子上会有编号，不是很明显凑合着看下吧
 
+### 运行效果
+![image](https://github.com/1-on/img-storage/blob/main/flight-chess/1.png)
+![image](https://github.com/1-on/img-storage/blob/main/flight-chess/2.png)
 
 
